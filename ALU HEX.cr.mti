@@ -1,0 +1,15 @@
+{C:/Users/adelm/Desktop/ALU HEX/TEST.sv} {1 {vlog -work work -sv -stats=none {C:/Users/adelm/Desktop/ALU HEX/TEST.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alutestbench
+
+Top level modules:
+	alutestbench
+
+} {} {}} {C:/Users/adelm/Desktop/ALU HEX/Slmaa.sv} {1 {vlog -work work -sv -stats=none {C:/Users/adelm/Desktop/ALU HEX/Slmaa.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}}
